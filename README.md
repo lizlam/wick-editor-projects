@@ -4,4 +4,4 @@ Collection of wick editor projects.
 https://www.wickeditor.com/
 
 dotcity
-![dotcity](dotcity.gif]
+![dotcity](dotcity.gif)
