@@ -3,5 +3,5 @@ Collection of wick editor projects.
 
 https://www.wickeditor.com/
 
-dotcity
+***dotcity*** (my first wick editor animation!)        
 ![dotcity](dotcity.gif)
